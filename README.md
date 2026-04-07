@@ -1,5 +1,5 @@
-# KT803_30-34381 Manual
+# KT803_30-34387 Manual
 
 ## 📖 Documentation
 
-<https://hm-info.github.io/kt80330-34381/>
+<https://hm-info.github.io/kt80330-34387/>
